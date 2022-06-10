@@ -1,2 +1,2 @@
 # flower-shop
-one page about  flowers  in html & css 
+one page about  flower-shop  in html & css 
